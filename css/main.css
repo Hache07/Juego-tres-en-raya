@@ -1,0 +1,27 @@
+.container {
+	margin: 0 auto;
+}
+.tabla {
+	background-color: #e3e2de;
+	padding: 10px;
+}
+.section {
+	font-family: 'Raleway', sans-serif;
+}
+.button{
+    background-color: #7abb3b;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    padding: 6px 8px;
+    font-size: 1em;
+    margin-top: 20px;
+    border: none;
+    transition: all .5s ease;
+}
+.button:hover {
+	-webkit-transform: scale(1.1);
+}
+.campo {
+	width: 100px;
+	height: 120px;
+}
